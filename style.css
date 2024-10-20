@@ -39,8 +39,10 @@ footer{
     color:white;
 }
 .img{
-    float: left;
-         flex-wrap: wrap;
-     justify-content: space-around;
-     display: flex;
-{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.img img {
+    margin-right: 10px; 
+}
