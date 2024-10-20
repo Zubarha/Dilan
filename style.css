@@ -38,3 +38,9 @@ footer{
     background: rgb(22, 22, 90);
     color:white;
 }
+.img{
+    float: left;
+         flex-wrap: wrap;
+     justify-content: space-around;
+     display: flex;
+{
